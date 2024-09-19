@@ -6,7 +6,7 @@ Hello! This repository contains Python codes I made for my ECE2112 course, parti
 **2.** Write a Python script/code in the Jupyter Notebook to do the given problems. <br/>
 **3.** Submit your Jupyter notebook in the dedicated submission bin. <br/>
 
-#### Important note: The problem outputs can be seen inside my `.ipynb` files. You can also use the `.xlsx` e files which leads you directly to the data sets that will be used in this problem.
+#### Important note: The problem outputs can be seen inside my `.ipynb` files. You can also use the `.xlsx` files which leads you directly to the data sets that will be used in this problem.
 
 # ECE Board Exam Problem - Part 1 <br/>
 
@@ -136,9 +136,25 @@ plt.show()
 
 The author is currently a second-year student pursuing a Bachelor's degree in Electronics Engineering. They have a strong passion for technology and are dedicated to applying their knowledge to real-world projects. In addition to their academic pursuits, the author continually seeks to expand their skill set. They are excited about the opportunities in the electronics field and aim to contribute to innovative solutions in the industry.
 
-##### The problems above focus on Data Wrangling and Data Visualization. Feel free to let the author know if there is anything they can do to improve the code. Thank you!
+# Acknowledgement
+
+I would like to express my gratitude to the following professors for their continuous guidance and support during this experiment:
+
+👩‍🏫 Engr. Ma. Madecheen S. Pangaliman, MSc <br/>
+👨‍🏫 Engr. Nico John Leo S. Lobos, MSc, ECE, ECT
+
+# Commitments History
+
+❤️ 0.1 - Initial commitment  <br/>
+❤️ 0.2 - Updated the README file  <br/>
+❤️ 0.3 - Updated the README file  <br/>
+❤️ 0.4 - Uploaded files  <br/>
+❤️ 0.5 - Updated the README file  <br/>
+❤️ 0.6 - Updated the README file  <br/>
 
 
+
+### The problems above focuses on Data Wrangling and Data Visualization. Feel free to let the author know if there is anything they can do to improve the code. Thank you!
 
 
 
