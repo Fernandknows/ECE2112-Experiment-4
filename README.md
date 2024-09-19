@@ -6,7 +6,7 @@ Hello! This repository contains Python codes I made for my ECE2112 course, parti
 **2.** Write a Python script/code in the Jupyter Notebook to do the given problems. <br/>
 **3.** Submit your Jupyter notebook in the dedicated submission bin. <br/>
 
-#### Important note: The problem outputs can be seen inside my `.ipynb` files. You can also use my `.py` executable files which leads you directly to a specific problem. 
+#### Important note: The problem outputs can be seen inside my `.ipynb` files. You can also use the `.xlsx` e files which leads you directly to the data sets that will be used in this problem.
 
 # ECE Board Exam Problem - Part 1 <br/>
 
